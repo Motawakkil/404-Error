@@ -1,2 +1,2 @@
-# 404-Erroe
+# 404-Error
 Simple Error Page
